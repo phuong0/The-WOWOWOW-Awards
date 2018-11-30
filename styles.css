@@ -1,0 +1,41 @@
+body {
+    text-align:center;
+    background-image: url("https://ak2.picdn.net/shutterstock/videos/22946212/thumb/1.jpg");
+}
+.smaller {
+    width:500px;
+    margin:15px;
+}
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 70px;
+    color:#AF002A;
+}
+.hard {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    color:purple;
+}
+.game {
+    font-family: 'Pangolin', cursive;
+    font-size: 30px;
+    color:green;
+}
+.FPS {
+   font-family: 'Rock Salt', cursive;
+   font-size: 30px;
+   color:red;
+}
+.Kpop {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 30px;
+    color:blue;
+}
+h2 {
+    padding-top:60px;
+}
+img {
+    border-style:groove;
+    border-color:#8C92AC;
+    border-width:10px;
+}
